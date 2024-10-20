@@ -41,6 +41,11 @@ A public project that dives into more advanced concepts, possibly including bitw
 ### **BaseCalConv** 🔢
 A project designed to help understand base conversions and calculations in C. ⚖️
 
+### Website Practice C
+- https://www.w3resource.com/c-programming-exercises/
+- https://www.studytonight.com/c/programs/
+- https://www.geeksforgeeks.org/c-programming-language/
+
 ---
 
 ## **Key Concepts Covered** 🎓:
